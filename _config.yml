@@ -19,13 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Rafael Gomes de Oliveira
-email: rthealien@gmail.com
+#email: rthealien@gmail.com
+author: rthealien
 description: >- # this means to ignore newlines until "baseurl:"
     Mais uma tentativa de blog, com um misto de página pessoal, portfólio, etc
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rthealien
 github_username:  rthealien
+lang: "pt-BR"
 
 # Build settings
 theme: minima
