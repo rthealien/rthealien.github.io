@@ -1,2 +1,2 @@
 # rthealien.github.io
-Mais uma tentativa de blog, com um mixto de página pessoal, portfólio, etc
+Mais uma tentativa de blog, com um misto de página pessoal, portfólio, etc
