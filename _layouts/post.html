@@ -13,14 +13,17 @@ layout: default
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}
-	  em {% if post %}
+	  em{% if post %}
 			{% assign categories = post.categories %}
 			{% else %}
 			{% assign categories = page.categories %}
 			{% endif %}
 			{% for category in categories %}
+				{% if category == 'dicas' %}
+				{% else %}
 			<a href="{{site.baseurl}}/categorias/#{{category|slugize}}">#{{category}}</a>
-			{% unless forloop.last %}&nbsp;{% endunless %}
+					{% unless forloop.last %}&nbsp;{% endunless %}
+				{% endif %}
 			{% endfor %}
 		</p>
   </header>

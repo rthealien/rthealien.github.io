@@ -23,7 +23,23 @@ layout: default
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
+		{%- else -%}
+		  {{ post.content }}
         {%- endif -%}
+		<span class="post-meta">
+		&#9632; {% if post %}
+		{% assign categories = post.categories %}
+		{% else %}
+		{% assign categories = page.categories %}
+		{% endif %}
+		{% for category in categories %}
+			{% if category == 'dicas' %}
+			{% else %}
+		<a href="{{site.baseurl}}/categorias/#{{category|slugize}}">#{{category}}</a>
+				{% unless forloop.last %}&nbsp;{% endunless %}
+			{% endif %}
+		{% endfor %}
+		</span>
       </li>
       {%- endfor -%}
     </ul>
