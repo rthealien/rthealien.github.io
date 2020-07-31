@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Street Food: América Latina - Temporada 1"
-date:   2020-07-30 18:00:00 -0300
+date:   2020-07-31 16:00:00 -0300
 categories: ["dicas", "seriados"]
 ---
 
