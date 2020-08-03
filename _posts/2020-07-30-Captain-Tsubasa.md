@@ -2,6 +2,9 @@
 layout: post
 title:  "Captain Tsubasa (2018)"
 date:   2020-07-30 12:00:00 -0300
+author: rthealien
+summary: "Minha recomendação do anime Captain Tsubasa (2018)"
+image: "/assets/202007/29_captain_tsubasa.jpg"
 categories: ["dicas", "seriados"]
 ---
 
