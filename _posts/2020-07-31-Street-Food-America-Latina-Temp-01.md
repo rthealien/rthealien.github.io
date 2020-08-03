@@ -2,6 +2,9 @@
 layout: post
 title:  "Street Food: América Latina - Temporada 1"
 date:   2020-07-31 16:00:00 -0300
+author: rthealien
+summary: "Minha recomendação de Street Food: América Latina, série da Netflix"
+image: "/assets/202007/31_street_food_la.jpg"
 categories: ["dicas", "seriados"]
 ---
 
