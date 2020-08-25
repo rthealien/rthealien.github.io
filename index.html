@@ -1,0 +1,65 @@
+---
+layout: default
+---
+<div class="home">
+<!-- This loops through the paginated posts -->
+    <ul class="post-list">
+{% for post in paginator.posts %}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+		{%- else -%}
+		  {{ post.content }}
+        {%- endif -%}
+		<span class="post-meta">
+		&#9632; {% if post %}
+		{% assign categories = post.categories %}
+		{% else %}
+		{% assign categories = page.categories %}
+		{% endif %}
+		{% for category in categories %}
+			{% if category == 'dicas' %}
+			{% else %}
+		<a href="{{site.baseurl}}/categorias/#{{category|slugize}}">#{{category}}</a>
+				{% unless forloop.last %}&nbsp;{% endunless %}
+			{% endif %}
+		{% endfor %}
+		</span>
+      </li>
+{% endfor %}
+	</ul>
+
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Anterior</a> |
+  {% else %}
+    <span>&laquo; Anterior</span> |
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em> |
+    {% elsif page == 1 %}
+      <a href="{{ '/' | relative_url }}">{{ page }}</a> |
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a> |
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Próxima &raquo;</a>
+  {% else %}
+    <span>Próxima &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
+</div>
