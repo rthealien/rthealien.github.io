@@ -3,7 +3,7 @@ layout: post
 title:  "Chroma Squad"
 date:   2020-08-26 18:00:00 -0300
 author: rthealien
-summary: "Minha recomendação de Chroma Squad, jogo brasileiro, disponível e quase todas as plataformas."
+summary: "Minha recomendação de Chroma Squad, jogo brasileiro, disponível em quase todas as plataformas."
 image: "/assets/202008/26_chroma_squad.jpg"
 categories: ["dicas", "jogos"]
 ---
