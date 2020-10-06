@@ -10,7 +10,7 @@ categories: ["dicas", "jogos"]
 
 ![Captain Tsubasa](/assets/202010/06-captain-tsubasa-rise-new-champions-title.jpg)
 
-No texto que escrevi sobre a nova produção do anime Captain Tsubasa eu já havia comentado como estava ansioso para o lançamento desse jogo. Comprei o jogo na pré-venda e fiquei contando as horas no lançamento para dar o pontapé inicial.
+No [texto] que escrevi sobre a nova produção do anime Captain Tsubasa eu já havia comentado como estava ansioso para o lançamento desse jogo. Comprei o jogo na pré-venda e fiquei contando as horas no lançamento para dar o pontapé inicial.
 
 Apesar de toda essa expectativa que eu mesmo criei, fiquei bem satisfeito com o jogo. Conseguiram incorporar bem o espirito do anime na jogabilidade e tenho me divertido bastante nos gramados virtuais no meu tempo livre.
 
@@ -42,3 +42,5 @@ Eu joguei no Nintendo Switch e tive alguns poucos problemas de performance, mas 
 [1]: https://www.youtube.com/watch?v=WCWV2bBqxCw "Trailer de lançamento"
 [2]: https://amzn.to/2GHC3fL "Jogo em mídia física para Switch"
 [3]: https://store.nintendo.com.br/captain-tsubasa-rise-of-new-champions-edicion-1-mes "Jogo do Switch em mídia digital"
+
+[texto]: https://rthealien.github.io/dicas/seriados/2020/07/30/Captain-Tsubasa.html "Captain Tsubasa (2018)"
