@@ -20,4 +20,8 @@ Assim que comecei a ler fiquei admirado com tudo:
 <br/>
 O livro como o título sugere tem uma trama mais sobrenatural e é protagonizada por adolescentes, então vivemos os dramas dessa fase como: problemas no colégio, relacionamento com os pais, relacionamento amorosos, amizade. E por isso, além de todo esse lado cultural que já citei ele acaba trazendo uma bela nostálgia dessa época.
 
+Escrito por [Thiago Lee][2] e publicado pela [Página 7][3]. Li a versão do Kindle.
+
 [1]: https://twitter.com/umbookaholic/status/1308164102385217538 "Recomendação que tive que seguir"
+[2]: https://twitter.com/thiagoeulee "Twitter do autor"
+[3]: https://twitter.com/agenciapag7 "Twitter da editora"
