@@ -28,7 +28,6 @@ Mas nem tudo são flores com relação ao jogo:
 -	O jogo lançou com alguns erros que espero que sejam corrigidos em breve. Ao chegar em um ponto do modo online o jogo trava se não estiver no idioma Inglês, por exemplo
 -	E a parte que mais me afetou é que foi bem difícil achar algum adversário online para jogar comigo.
 
-<br/>
 Eu joguei no Nintendo Switch e tive alguns poucos problemas de performance, mas li relatos de problemas em outras plataformas também (principalmente no PC). Recomendo bastante o jogo, mas acredito que, para quem não esta agoniado como eu estava, é bom esperar um tempo até que entre em promoção e as correções sejam lançadas.
 
 > Comprem para sempre ter muita gente online!

@@ -20,7 +20,7 @@ Encontrei então o Pixel Puzzle Collection, que é um Picross gratuito e que tem
 * A cada 3 horas é liberado um desafio de "chefe", que no fim das contas quer dizer que não vai ser liberada uma imagem completa depois da resolução e sim um pedaço de uma imagem maior, mas que nada altera no desafio em si.
 * E tem uma trilha sonora baseada nos jogos, mas que eu acabo não aproveitando pois jogo com ele no mudo para não atrapalhar as pessoas ao redor.
 
-<br/>Enquanto estou escrevendo esse texto, meu jogo está 49,8% completo e dessa vez eu espero chegar ao final!
+Enquanto estou escrevendo esse texto, meu jogo está 49,8% completo e dessa vez eu espero chegar ao final!
 
 Para saber um pouco mais sobre esse tipo de jogo pode assistir a esse [vídeo]. E caso tenha ficado interessado no jogo pode baixar para android [aqui].
 

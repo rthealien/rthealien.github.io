@@ -16,7 +16,6 @@ Eu adoro programas sobre comida e quando adicionam aos ingredientes
 * uma baita edição/produção
 * países da América Latina
 
-<br/>
 Temos a receita de um programa incrível!
 
 A primeira temporada tem 6 episódios e meus preferidos são os de Buenos Aires (por motivos de "muito queijo!" e Salvador (por motivos de [saudades])

@@ -24,5 +24,4 @@ Não é um primor de mecânicas e nem mesmo de jogabilidade, mas quando se compr
 * Uma história louca que conseguiu juntar vários personagens importantes da franquia
 * Muitas possibilidades de melhorias dos personagens, com armas melhores, novos combos.
 
-<br/>
 Uma coisa que poderia melhorar são as animações da história que poderiam ter um capricho a mais recebendo uma boa dublagem.

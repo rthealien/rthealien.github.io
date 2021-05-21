@@ -17,7 +17,6 @@ Assim que comecei a ler fiquei admirado com tudo:
 -	a cultura brasileira representada na história
 -	na deliciosa aventura colegial que eu gostaria de ter lido durante minha adolescência 
 
-<br/>
 O livro como o título sugere tem uma trama mais sobrenatural e é protagonizada por adolescentes, então vivemos os dramas dessa fase como: problemas no colégio, relacionamento com os pais, relacionamento amorosos, amizade. E por isso, além de todo esse lado cultural que já citei ele acaba trazendo uma bela nostálgia dessa época.
 
 Escrito por [Thiago Lee][2] e publicado pela [Página 7][3]. Li a versão do Kindle.
