@@ -1,3 +1,7 @@
 ul.post-list > li > ul {
 	margin-bottom: 15px;
 }
+
+   .pagination {
+	text-align: center;
+   }
