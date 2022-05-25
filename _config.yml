@@ -3,7 +3,7 @@ author: rthealien
 description: >- # this means to ignore newlines until "baseurl:"
     Mais uma tentativa de blog, com um misto de página pessoal, portfólio, etc
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rthealien.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rafaelgoliveira.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rthealien
 github_username:  rthealien
 lang: "pt-BR"
