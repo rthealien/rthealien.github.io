@@ -22,3 +22,19 @@ a.ativo {
 .interesseiro {
 	text-align: center;
 }
+
+.foto_sobre {
+	-moz-border-radius: 5%;
+	border-radius: 5%;
+	width: 225px;
+	float: left;
+	margin: 10px;
+	border: 1px solid;
+}
+
+@media only screen and (max-width: 600px) {
+  .foto_sobre {
+    float: none;
+    width: 80%;
+  }
+}

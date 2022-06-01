@@ -4,7 +4,7 @@ title: Sobre
 permalink: /sobre/
 ---
 
-<img src="/assets/sobre/eu2.jpg" style="-moz-border-radius: 5%;border-radius: 5%;width: 225px;float: left;margin: 10px;">
+<img src="/assets/sobre/eu2.jpg" class="foto_sobre" style="">
 
 Meu nome é Rafael e sou um desenvolvedor web que passou boa parte da adolescência criando blogs para falar sobre as coisas que fazia (assistia, ouvia, jogava) e resolveu juntar um pouco desses mundos aqui no GitHub Pages só para trocar a `Postagem de Textos` pela `Commitagem de Textos`.
 
@@ -18,14 +18,14 @@ Não temos caixa de comentários por aqui, mas caso queira entrar em contato a m
 
 	<h4>Jogos</h4>
 
-	<small>Sempre fui um apaixonado por games. Os jogos me motivaram a gostar de tecnologia, aprender inglês. Com o passar do tempo eu comecei a jogar bem menos, mas estou sempre atento a tudo que rola nesse mundo.</small>
+	<small>Sempre fui um apaixonado por games. Os jogos me motivaram a gostar de tecnologia, aprender inglês e solucionar enigmas. Com o passar do tempo comecei a jogar bem menos, mas estou sempre atento a tudo que rola nesse mundo.</small>
 </div>
 
 <div class="interesses">
 	<img src="/assets/sobre/desenvolvimento-web.png" style="-moz-border-radius: 5%;border-radius: 5%;width: 150px;margin: 10px;">
 	<h4>Desenvolvimento</h4>
 
-	<small>Minha profissão é Desenvolvedor de Sistemas e gosto muito do fato do meu dia a dia ser baseado em encontrar solução para problemas. Estou sempre pesquisando novas formas de solução e é claro que os problemas sempre vão se aprimorando também.</small>
+	<small>Minha profissão é Desenvolvedor de Sistemas e gosto muito do fato do meu dia a dia ser baseado em encontrar soluções para problemas. Estou sempre pesquisando novas formas de solução e é claro que os problemas sempre vão se aprimorando também.</small>
 
 </div>
 <div class="interesses">
