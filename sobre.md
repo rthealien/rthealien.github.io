@@ -4,11 +4,24 @@ title: Sobre
 permalink: /sobre/
 ---
 
+
 <img src="/assets/sobre/eu2.jpg" class="foto_sobre" style="">
 
 Meu nome é Rafael e sou um desenvolvedor web que passou boa parte da adolescência criando blogs para falar sobre as coisas que fazia (assistia, ouvia, jogava) e resolveu juntar um pouco desses mundos aqui no GitHub Pages só para trocar a `Postagem de Textos` pela `Commitagem de Textos`.
 
 Não temos caixa de comentários por aqui, mas caso queira entrar em contato a melhor opção é me procurar no twitter pelo [@rthealien].
+
+<center>
+
+<ul class="" style="display: inline-flex;list-style: none;">
+ 
+  <li><a rel="me" href="https://github.com/rthealien" target="_blank" title="GitHub: rthealien"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg></a></li>
+  <li><a rel="me" href="https://www.instagram.com/rthealien" target="_blank" title="Instagram: rthealien"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}"></use></svg></a></li>
+  <li><a rel="me" href="https://www.linkedin.com/in/rthealien" target="_blank" title="Linkedin: rthealien"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg></a></li>
+  <li><a rel="me" href="https://twitter.com/rthealien" target="_blank" title="Twitter: rthealien"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg></a></li>
+ 
+</ul>
+</center>
 
 ### Interesses
 
