@@ -36,6 +36,16 @@ a.ativo {
 	margin: 10px;
 	border: 1px solid;
 }
+.foto_links {
+	-moz-border-radius: 50% 75% 75%;
+	border-radius: 50% 75% 75%;
+	width: 225px;
+	margin: 10px;
+	border: 1px solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 @media only screen and (max-width: 600px) {
   .foto_sobre {

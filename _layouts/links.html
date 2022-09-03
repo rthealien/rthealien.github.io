@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "pt-br" }}">
+
+  {%- include headLink.html -%}
+
+  <body>
+
+
+<body>
+
+    <main>
+        {{ content }}
+    </main>
+
+    {%- include footerLink.html -%}
+
+  </body>
+    <!-- Bootstrap core JS -->
+    <script src="{{ "/assets/links/js/bootstrap.js" | relative_url }}"></script>
+</html>
