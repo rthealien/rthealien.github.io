@@ -65,6 +65,7 @@ title: Links
                 <li><a href="https://www.linkedin.com/in/rthealien/" target="_blank"><i class="bi bi-linkedin" style="font-size: 2rem;" title="LinkedIn"></i></a></li>
                 <!-- li><a href="https://www.youtube.com" target="_blank"><i class="bi bi-youtube" style="font-size: 2rem;" title="Youtube"></i></a></li -->
                 <li><a href="mailto:linknabio@rafaelgoliveira.dev" target="_blank"><i class="bi bi-envelope" style="font-size: 2rem;" title="Email"></i></a></li>          
+                <li><a rel="me" href="https://ursal.zone/@rthealien" target="_blank"><i class="bi bi-mastodon" style="font-size: 2rem;" title="Mastodon"></i></a></li>          
             </ul>
         </div>
     </div>
