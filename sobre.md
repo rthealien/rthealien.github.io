@@ -9,9 +9,9 @@ permalink: /sobre/
 
 Meu nome é Rafael e sou um desenvolvedor web que passou boa parte da adolescência criando blogs para falar sobre as coisas que fazia (assistia, ouvia, jogava) e resolveu juntar um pouco desses mundos aqui no GitHub Pages só para trocar a `Postagem de Textos` pela `Commitagem de Textos`.
 
-Não temos caixa de comentários por aqui, mas caso queira entrar em contato a melhor opção é me procurar no twitter pelo [@rthealien].
+Não temos caixa de comentários por aqui, mas caso queira entrar em contato a melhor opção é me procurar no Twitter pelo [@rthealien] ou no Mastodon pelo [@rthealien@usal.zone].
 
-<center>
+<!-- <center>
 
 <ul class="" style="display: inline-flex;list-style: none;">
  
@@ -21,9 +21,34 @@ Não temos caixa de comentários por aqui, mas caso queira entrar em contato a m
   <li><a rel="me" href="https://twitter.com/rthealien" target="_blank" title="Twitter: rthealien"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg></a></li>
  
 </ul>
-</center>
+</center> -->
 
-### Interesses
+<div class="">
+	<p><strong>Outras redes:</strong></p>
+<ul> 
+  <li><a rel="me" href="https://github.com/rthealien" target="_blank" title="GitHub: rthealien">GitHub</a></li>
+  <li><a rel="me" href="https://www.instagram.com/rthealien" target="_blank" title="Instagram: rthealien">Instagram</a></li>
+  <li><a rel="me" href="https://www.linkedin.com/in/rthealien" target="_blank" title="Linkedin: rthealien">Linkedin</a></li>
+  <li><a rel="me" href="https://letterboxd.com/rthealien/" target="_blank" title="Letterboxd: rthealien">Letterboxd</a></li>
+  <li><a rel="me" href="https://www.backloggd.com/u/rthealien/" target="_blank" title="Backloggd: rthealien">Backloggd</a></li>
+</ul>
+</div>
+
+{% assign categoria = "blog" %}
+
+<div class="">
+	<p><strong>Textos que podem ajudar a me conhecer melhor:</strong></p>
+		<ul>
+			{% for post in site.categories[categoria] %}
+			<li>
+				<a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> 
+			</li>
+			{% endfor %}
+		</ul>	
+</div>
+
+
+<!-- ### Interesses
 
 <div class="interesseiro">
 <div class="interesses">
@@ -70,7 +95,8 @@ Não temos caixa de comentários por aqui, mas caso queira entrar em contato a m
 
 
 <br/>
-<small>[créditos] dos ícones.</small>
+<small>[créditos] dos ícones.</small> -->
 
 [@rthealien]:https://twitter.com/rthealien
 [créditos]:https://www.flaticon.com/br/autores/juicy-fish
+[@rthealien@usal.zone]:https://ursal.zone/@rthealien

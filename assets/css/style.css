@@ -53,3 +53,12 @@ a.ativo {
     width: 80%;
   }
 }
+
+.badge {
+  background-color: #297d04fa;
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 13px;
+}
