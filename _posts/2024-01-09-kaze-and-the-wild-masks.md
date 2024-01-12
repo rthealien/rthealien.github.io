@@ -3,12 +3,12 @@ layout: post
 title: Kaze and the Wild Masks
 author: rthealien
 summary: Jogo de plataforma, nos moldes de Donkey Kong Country, com uma carismático coelho como protagonista e desenvolvido por um estúdio brasileiro.
-image: "/assets/2023/0109_kaze.png"
+image: "/assets/2024/0109_kaze.png"
 categories: ["dicas", "jogos"]
 ---
 
 
-![Imagem](/assets/2023/0109_kaze.png)
+![Imagem](/assets/2024/0109_kaze.png)
 
 **O que?**
 
