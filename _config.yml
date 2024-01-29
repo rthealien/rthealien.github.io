@@ -7,7 +7,7 @@ url: "https://rafaelgoliveira.dev" # the base hostname & protocol for your site,
 twitter_username: rthealien
 github_username:  rthealien
 lang: "pt-BR"
-paginate: 5
+paginate: 3
 paginate_path: "/pagina:num/"
 
 # Build settings
