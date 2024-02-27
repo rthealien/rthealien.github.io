@@ -4,7 +4,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">rthealien</a>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">Rafael Oliveira</a>
 
     {%- if titles_size > 0 -%}
       <nav class="site-nav">
@@ -20,6 +20,7 @@
           <a class="page-link {% if page.url == "/" %}ativo{% endif %}" href="/">Blog</a>
           <a class="page-link {% if page.url == "/sobre/" %}ativo{% endif %}" href="/sobre/">Sobre</a>
           <a class="page-link {% if page.url == "/categorias/" %}ativo{% endif %}" href="/categorias/">Categorias</a>
+          <a class="page-link {% if page.url == "/descobri-hoje/" %}ativo{% endif %}" href="/descobri-hoje/">Descobri Hoje</a>
           <a class="page-link {% if page.url == "/dicas/" %}ativo{% endif %}" href="/dicas/">Dicas</a>
           <a class="page-link {% if page.url == "/alien-awards/" %}ativo{% endif %}" href="/alien-awards/">Alien Awards</a>
         </div>
