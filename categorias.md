@@ -7,7 +7,7 @@ title: Categorias
 
 <div class="">
 	<p>Todos os registros do blog separados por categorias.</p>
-	{% for category in site.categories | sort  %}
+	{% for category in site.categories  %}
 		{% capture category_name %}{{ category | first }}{% endcapture %}
 	    {% if category_name == 'dicas' %}
 		{% else %}

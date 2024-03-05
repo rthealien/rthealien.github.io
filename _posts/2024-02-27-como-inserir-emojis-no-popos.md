@@ -25,4 +25,3 @@ Pesquisando, descobri que obviamente eu não era o único com a mesma dúvida e 
 Problema resolvido 😃 ✅
 
 [Fonte]:https://www.reddit.com/r/pop_os/comments/j5ur0w/keyboard_shortcut_on_pop_os_which_allows_you_to/
-
