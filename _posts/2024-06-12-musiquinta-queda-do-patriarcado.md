@@ -6,7 +6,6 @@ summary: "MusiQuinta: indicação de uma música com o tema "
 image: "/assets/2024/06_musiquinta_queda_patriarcado.png"
 categories: ["musica","dicas"]
 tags: ["musiquinta"]
-date: 2024-06-12 00:01:00 -0300
 ---
 
 {% include musiquinta.md %}
