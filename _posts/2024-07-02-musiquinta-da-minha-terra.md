@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#Musiquinta: Da minha terra"
+title: "#MusiQuinta: Da minha terra"
 author: rthealien
 summary: "MusiQuinta: indicação de uma música com o tema Da minha Terra"
 image: "/assets/2024/06_musiquinta_minha_terra.jpeg"

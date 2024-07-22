@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#Musiquinta: Queda do patriarcado"
+title: "#MusiQuinta: Queda do patriarcado"
 author: rthealien
 summary: "MusiQuinta: indicação de uma música com o tema "
 image: "/assets/2024/06_musiquinta_queda_patriarcado.png"

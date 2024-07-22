@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#Musiquinta: Trilha Sonora"
+title: "#MusiQuinta: Trilha Sonora"
 author: rthealien
 summary: "MusiQuinta: indicação de uma música com o tema Trilha Sonora"
 image: "/assets/2024/06_musiquinta_soundtrack.jpeg"
