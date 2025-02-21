@@ -3,9 +3,12 @@ layout: post
 title: "#MusiQuinta: Amor"
 author: rthealien
 summary: "MusiQuinta: indicação de uma música com o tema Amor"
-image: "/assets/2024/07_musiquinta_amor.jpeg"
-categories: ["musica","dicas"]
-tags: ["musiquinta"]
+image: /assets/2024/07_musiquinta_amor.jpeg
+categories:
+  - musica
+  - dicas
+tags:
+  - blog/musiquinta
 ---
 
 {% include musiquinta.md %}

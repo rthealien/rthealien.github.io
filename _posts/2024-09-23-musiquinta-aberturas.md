@@ -3,9 +3,11 @@ layout: post
 title: "#MusiQuinta: Aberturas"
 author: rthealien
 summary: "MusiQuinta: indicação de uma música com o tema Aberturas"
-image: "/assets/2024/07_musiquinta_aberturas.jpeg"
-categories: ["musica"]
-tags: ["musiquinta"]
+image: /assets/2024/07_musiquinta_aberturas.jpeg
+categories:
+  - musica
+tags:
+  - blog/musiquinta
 ---
 
 {% include musiquinta.md %}
@@ -14,7 +16,7 @@ tags: ["musiquinta"]
 
 **Postado originalmente em:** 30/05/2024
 
-Para essa #MusiQuinta sobre aberturas eu poderia falar sobre todos os animes que decorei a abertura (Fly, YuYu Hakusho, Cavaleiros do Zodíaco ou Dragon Ball) na infância, mas resolvi escolher outra época da minha vida.
+Para essa \#MusiQuinta sobre aberturas eu poderia falar sobre todos os animes que decorei a abertura (Fly, YuYu Hakusho, Cavaleiros do Zodíaco ou Dragon Ball) na infância, mas resolvi escolher outra época da minha vida.
 
 A fase que comecei a assistir séries e baixava os episódios no estágio, já que a internet em casa era praticamente simbólica no quesito velocidade, e parava pra assistir geralmente quando voltava geralmente de madrugada ou nos finais de semana a noite.
 

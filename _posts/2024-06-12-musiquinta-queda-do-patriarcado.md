@@ -3,9 +3,12 @@ layout: post
 title: "#MusiQuinta: Queda do patriarcado"
 author: rthealien
 summary: "MusiQuinta: indicação de uma música com o tema "
-image: "/assets/2024/06_musiquinta_queda_patriarcado.png"
-categories: ["musica","dicas"]
-tags: ["musiquinta"]
+image: /assets/2024/06_musiquinta_queda_patriarcado.png
+categories:
+  - musica
+  - dicas
+tags:
+  - blog/musiquinta
 ---
 
 {% include musiquinta.md %}
@@ -14,7 +17,7 @@ tags: ["musiquinta"]
 
 **Postado originalmente em:** 09/05/2024
 
-Para o tema #QuedaDoPatriarcado minha escolha será Drik Barbosa.
+Para o tema \#QuedaDoPatriarcado minha escolha será Drik Barbosa.
 
 Desde que conheci na participação dela em Madume do Emicida passei a acompanhar, já fui em vários shows e até hoje não entendo porque a carreira dela não decolou do jeito que o talento dela merece.
 

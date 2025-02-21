@@ -3,9 +3,12 @@ layout: post
 title: "#MusiQuinta: Trilha Sonora"
 author: rthealien
 summary: "MusiQuinta: indicação de uma música com o tema Trilha Sonora"
-image: "/assets/2024/06_musiquinta_soundtrack.jpeg"
-categories: ["musica","dicas"]
-tags: ["musiquinta"]
+image: /assets/2024/06_musiquinta_soundtrack.jpeg
+categories:
+  - musica
+  - dicas
+tags:
+  - blog/musiquinta
 ---
 
 {% include musiquinta.md %}

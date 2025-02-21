@@ -3,9 +3,12 @@ layout: post
 title: "#MusiQuinta: Da minha terra"
 author: rthealien
 summary: "MusiQuinta: indicação de uma música com o tema Da minha Terra"
-image: "/assets/2024/06_musiquinta_minha_terra.jpeg"
-categories: ["musica","dicas"]
-tags: ["musiquinta"]
+image: /assets/2024/06_musiquinta_minha_terra.jpeg
+categories:
+  - musica
+  - dicas
+tags:
+  - blog/musiquinta
 ---
 
 {% include musiquinta.md %}
@@ -15,7 +18,7 @@ tags: ["musiquinta"]
 **Postado originalmente em:** 23/05/2024
 
 
-O tema do #MusiQuinta ser "da minha terra" é especial porque me faz pensar bastante sobre esse sentimento.
+O tema do \#MusiQuinta ser "da minha terra" é especial porque me faz pensar bastante sobre esse sentimento.
 
 Já foram várias conversas sobre isso com minha companheira (que se mudou muito durante a infância/adolescência) e comigo que sempre morei em lugares que não frequentava.
 

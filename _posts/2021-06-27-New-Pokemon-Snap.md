@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "New Pokémon Snap"
-date:   2021-06-27 12:00:00 -0300
+title: New Pokémon Snap
+date: 2021-06-27 12:00:00 -0300
 author: rthealien
-summary: "Minha recomendação de New Pokémon Snap, o joguinho de tirar fotos de Pokémon exclusivo de Nintendo Switch."
-image: "/assets/202106/27-new-pokemon-snap-01.jpg"
-categories: ["dicas", "jogos"]
+summary: Minha recomendação de New Pokémon Snap, o joguinho de tirar fotos de Pokémon exclusivo de Nintendo Switch.
+image: /assets/202106/27-new-pokemon-snap-01.jpg
+categories:
+  - dicas
+  - jogos
 ---
 
 ![New Pokémon Snap](/assets/202106/27-new-pokemon-snap-01.jpeg)

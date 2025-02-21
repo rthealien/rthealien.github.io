@@ -3,9 +3,13 @@ layout: post
 title: "#MusiQuinta: Começo"
 author: rthealien
 summary: "MusiQuinta: indicação de uma música com o tema Começo"
-image: "/assets/2024/06_musiquinta_comeco.png"
-categories: ["musica","dicas"]
-tags: ["musiquinta","cascadura"]
+image: /assets/2024/06_musiquinta_comeco.png
+categories:
+  - musica
+  - dicas
+tags:
+  - blog/musiquinta
+  - blog/cascadura
 ---
 
 {% include musiquinta.md %}

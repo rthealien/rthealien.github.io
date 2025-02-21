@@ -3,9 +3,11 @@ layout: post
 title: "#MusiQuinta: Karaokê"
 author: rthealien
 summary: "MusiQuinta: indicação de uma música com o tema Karaokê"
-image: "/assets/2024/07_musiquinta_karoke.jpeg"
-categories: ["musica"]
-tags: ["musiquinta"]
+image: /assets/2024/07_musiquinta_karoke.jpeg
+categories:
+  - musica
+tags:
+  - blog/musiquinta
 ---
 
 {% include musiquinta.md %}
