@@ -16,7 +16,7 @@ Eu tinha instalado um aplicativo chamado Emoji Picker que permite que eu pesquis
 Lembrando que no Windows eu consegui fazer isso utilizando o comando `Windows + .`, decidi correr atrás de uma alternativa para facilitar minha vida.
 
 
-**Solução?** [Fonte]
+**Solução?** ([Fonte])
 
 Pesquisando, descobri que obviamente eu não era o único com a mesma dúvida e por sorte encontrei também a solução.
 

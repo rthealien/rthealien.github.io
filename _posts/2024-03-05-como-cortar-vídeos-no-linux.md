@@ -12,7 +12,7 @@ Tinha acabado de baixar um show que foi transmitido em uma *grande rede social d
 
 Nunca nem editei vídeos na minha vida, então fui atrás de uma forma de fazer isso com o mínimo esforço possível (lembrando que o esforço pode ser algo relativo nesse caso).
 
-**Solução?** [Medium]
+**Solução?** ([Medium])
 
 Tenho usado o linux como sistema operacional principal no meu dia a dia e nas minhas pesquisa descobri que é bem tranquilo fazer esse corte simples utilizando a biblioteca FFmpeg através do terminal (aquela tela preta com letras que te faz parecer um hacker). 
 

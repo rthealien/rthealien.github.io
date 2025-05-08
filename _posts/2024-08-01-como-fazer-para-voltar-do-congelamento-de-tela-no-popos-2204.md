@@ -14,7 +14,7 @@ Se tiver um vídeo ou música rodando ele continua sem problemas, mas não é po
 
 Não é algo que acontece tantas vezes, mas o problema maior é justamente não saber o que causa. E se acontece quando estou no meio de alguma tarefa importante/urgente?
 
-**Solução?** [Reddit]
+**Solução?** ([Reddit])
 
 Pesquisei bastante, mas não consegui descobrir a causa do problema, logo não terei uma solução aqui. Mas encontrei uma forma de fazer as coisas voltarem a funcionar sem que eu precise reiniciar o PC, ou seja, sem correr o risco de perder o progresso do que estava fazendo!
 

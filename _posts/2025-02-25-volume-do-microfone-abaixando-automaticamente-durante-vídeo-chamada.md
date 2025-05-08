@@ -14,7 +14,7 @@ Ao observar as configurações notei que o volume do microfone estava muito baix
 
 O mesmo aconteceu nas outras 3 vezes que tentei falar e foi nesse momento que percebi que alguma coisa estava fazendo o volume do microfone se ajustar automaticamente.
 
-**Solução?** [Reddit]
+**Solução?** ([Reddit])
 
 Com uma breve pesquisa no Google, encontrei uma conversa no Reddit em que um usuário relata o mesmo problema que o meu e alguém cita que os navegadores baseados no Chromium tinham um ajuste automático de volume.
 
