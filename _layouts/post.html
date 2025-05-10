@@ -31,6 +31,15 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
+  {% if page.mastodonId %}
+  <div id="comments"></div>
+  <script>
+    addEventListener('DOMContentLoaded', 
+    (event) => window.loadComments('{{ site.mastodon_url }}/{{ page.mastodonId }}',
+    document.getElementById('comments')));
+  </script>
+
+  {% endif %}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}

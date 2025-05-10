@@ -5,6 +5,7 @@ author: rthealien
 summary: Um jeito inusitado de fazer um SSD voltar a funcionar
 categories:
   - TIL
+mastodonId: 114473845457360327
 ---
 
 **Problema**

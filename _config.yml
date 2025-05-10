@@ -9,6 +9,7 @@ github_username:  rthealien
 lang: "pt-BR"
 paginate: 3
 paginate_path: "/pagina:num/"
+mastodon_url: "https://ursal.zone/@rthealien"
 
 # Build settings
 theme: minima
