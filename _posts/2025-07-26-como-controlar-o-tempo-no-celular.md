@@ -2,12 +2,13 @@
 layout: post
 title: Como controlar o tempo no celular
 author: rthealien
-summary: 'Texto refletindo sobre o uso do tempo e o que os celulares tem a ver com isso'
+summary: 'Texto refletindo sobre o uso do tempo e o que os celulares tem a ver com isso.'
 image: /assets/2025/2025-07-26-como-controlar-o-tempo-no-celular.jpg
 categories:
   - dicas
   - apps
   - blog
+mastodonId: 114919667896907493
 ---
 *Você deve estar pensando: "Mais um texto sobre controlar o tempo de tela?", mas pensou errado, caro leitor. Esse título é nada mais nada menos do que um trocadilho que serve para me alegrar e ao mesmo tempo, é uma isca para desavisados.*
 
