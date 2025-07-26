@@ -2,7 +2,7 @@
 layout: post
 title: Vou te receitar um gato
 author: rthealien
-summary: '"Texto sobre o livro Vou te receitar um gato de Syou Ishida"'
+summary: 'Texto sobre o livro Vou te receitar um gato de Syou Ishida'
 image: /assets/2025/2025-05-22-vou-te-receitar-um-gato.png
 categories:
   - dicas

@@ -2,7 +2,7 @@
 layout: post
 title: Golf Peaks
 author: rthealien
-summary: '"Texto sobre um jogo de puzzle (quebra-cabeça) perfeito para jogar no celular"'
+summary: 'Texto sobre um jogo de puzzle (quebra-cabeça) perfeito para jogar no celular'
 image: /assets/2025/2025-03-28-golf-peaks-capa.png
 categories:
   - dicas
