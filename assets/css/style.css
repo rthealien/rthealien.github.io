@@ -69,3 +69,22 @@ a.ativo {
 }
 
 h4 {text-decoration: underline;}
+
+.site-header {
+  background-image: url(/assets/lara_cabeca_baixo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 80%;
+}
+
+@media screen and (min-width: 600px) and (max-width: 900px) {
+  .site-header {
+  background-image: none!important;;
+  }
+}
+
+@media screen and (min-width: 900px) and (max-width: 1450px) {
+  .site-header {
+    background-position: 100%;
+  }
+}
